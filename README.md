@@ -10,4 +10,4 @@ git commit -m "Removed ignored files."
 
 ## Kubernetes Deployment Image
 The Pods don't start?
-Maybe check [here](https://iximiuz.com/en/posts/kubernetes-kind-load-docker-image/)
+Check [this](https://iximiuz.com/en/posts/kubernetes-kind-load-docker-image/) out, maybe that is the solution.
